@@ -1,7 +1,7 @@
 # oblogs
 使用最新技术，设计时髦博客
 
-# oblogs-angular2
+# oblogs-ui
 使用angular2和bootstrap技术构建前端
 
 # oblogs-eureka-server
