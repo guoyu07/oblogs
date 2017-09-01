@@ -1,6 +1,6 @@
 {
-  "name": "oblogs-ui-v2",
-  "version": "0.0.0",
+  "name": "oblogs-ui",
+  "version": "0.0.2",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
